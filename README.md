@@ -1,4 +1,3 @@
-# ai-support-ops
 ai-support-ops/
 ├── app/
 │   ├── __init__.py
